@@ -1,0 +1,122 @@
+[
+	{
+		"name": "John Doe",
+		"attendanceRate": "95%",
+		"department": "Janitorial Services",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "Jane Smith",
+		"attendanceRate": "88%",
+		"department": "Warehouse Logistics",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "Michael Johnson",
+		"attendanceRate": "92%",
+		"department": "Lunch",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "Emily Davis",
+		"attendanceRate": "90%",
+		"department": "Customer Support",
+		"offenses": "Repeatedly absent last month."
+	},
+	{
+		"name": "Robert Wilson",
+		"attendanceRate": "86%",
+		"department": "Dinner",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "Sarah Brown",
+		"attendanceRate": "91%",
+		"department": "Janitorial Services",
+		"offenses": "Repeatedly absent last month."
+	},
+	{
+		"name": "Daniel Lee",
+		"attendanceRate": "89%",
+		"department": "Dinner",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "Olivia Taylor",
+		"attendanceRate": "93%",
+		"department": "Warehouse Logistics",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "William Johnson",
+		"attendanceRate": "87%",
+		"department": "Janitorial Services",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "Ava Martinez",
+		"attendanceRate": "94%",
+		"department": "Customer Support",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "John Smith",
+		"attendanceRate": "96%",
+		"department": "Lunch",
+		"offenses": "Repeatedly absent last month."
+	},
+	{
+		"name": "Mary Johnson",
+		"attendanceRate": "89%",
+		"department": "Lunch",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "James Davis",
+		"attendanceRate": "91%",
+		"department": "Janitorial Services",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "Linda Wilson",
+		"attendanceRate": "90%",
+		"department": "Customer Support",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "Michael Brown",
+		"attendanceRate": "85%",
+		"department": "Dinner",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "Susan Lee",
+		"attendanceRate": "93%",
+		"department": "Customer Support",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "Richard Taylor",
+		"attendanceRate": "88%",
+		"department": "Warehouse Logistics",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "Jessica Martinez",
+		"attendanceRate": "94%",
+		"department": "Lunch",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "David Jones",
+		"attendanceRate": "87%",
+		"department": "Dinner",
+		"offenses": "No offenses"
+	},
+	{
+		"name": "Karen Miller",
+		"attendanceRate": "95%",
+		"department": "Warehouse Logistics",
+		"offenses": "No offenses"
+	}
+]
