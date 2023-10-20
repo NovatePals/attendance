@@ -21,12 +21,13 @@ body {
 }
 
 #username {
-  font-size: 18px;
+  margin-left: 250px;
+  font-size: 80px; /* Adjust the font size as needed */
   color: #fff;
 }
 
 #user-name {
-  font-size: 18px;
+  font-size: 80px;
   color: #fff;
 }
 
