@@ -1,22 +1,13 @@
-body {
-  font-family: Arial, sans-serif;
-  text-align: center;
-  margin: 20px;
-}
-
-h1 {
-  color: #333;
-}
-
-#generate-qr {
-  margin: 20px;
-  padding: 10px;
-  background-color: #333;
-  color: #fff;
-  border: none;
-  cursor: pointer;
-}
-
-#qr-code {
-  margin-top: 20px;
+/* CSS for the popup notification */
+.popup {
+	display: none;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: #fff;
+	padding: 20px;
+	border: 1px solid #ccc;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	z-index: 1000;
 }
